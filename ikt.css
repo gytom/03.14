@@ -1,0 +1,11 @@
+h1{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+.gomb{
+    position: absolute;
+    left: 50%;
+    background-color: red;
+}
